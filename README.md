@@ -1,4 +1,4 @@
-### 🤟Olá devs, me chamo Lucas, também conhecido como 'Cascão'!
+### 🤟Olá devs, me chamo Lucas!
 Sou um desenvolvedor front-end que evolui todos os dias, sempre procurando algo novo para explorar e conhecer, testando meus limites e meu conhecimento com novos projetos.
 
 ### Redes sociais :
